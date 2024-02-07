@@ -1,7 +1,7 @@
 
 ## MyPortfolio
 
-https://justchandrashekhar.github.io/Intro/
+https://int4o.vercel.app/
 
 ## 🚀 About Me
 Hello, I'm Chandrashekhar Tidake, Dive into the world of coding excellence with flutter app development. ✨
